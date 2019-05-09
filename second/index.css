@@ -7,6 +7,7 @@
     border: 3px black solid;
     height: 200px;
     margin: 20px;
+    position: relative;
 
 }
 
@@ -39,8 +40,21 @@
 }
 
 #box2{
+    height: 180px;
+    width: 25vw;
+    background: green;
+   position: absolute;
+   bottom:8px;
+   left: 100px;
+
 
 }
 #box3{
-
+    border-radius: 50%;
+    background: turquoise;
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    left: 500px;
+    bottom: 8px;
 }
