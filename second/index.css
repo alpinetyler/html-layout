@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+#top{
+    width: 95vw;
+    border: 3px black solid;
+    height: 200px;
+    margin: 20px;
+
+}
+
+#middle{
+    width: 95vw;
+    border: 3px black dotted;
+    height: 200px;
+    margin: 20px;
+
+}
+
+#bottom{
+   
+    width: 30vw;
+    border: 5px lightgray outset;
+    height: 200px;
+    margin: auto;
+    position: center;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing:5px;
+    padding-top: 50px;
+}
+
+#box1{
+    height: 150px;
+    width: 50px;
+    background: purple;
+    margin: 35px 0 8px 8px;
+}
+
+#box2{
+
+}
+#box3{
+
+}
