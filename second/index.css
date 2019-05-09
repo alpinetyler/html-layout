@@ -16,13 +16,16 @@
     border: 3px black dotted;
     height: 200px;
     margin: 20px;
+    position: relative;
+
 
 }
 
 #bottom{
    
     width: 30vw;
-    border: 5px lightgray outset;
+    box-shadow: 5px 5px gray;
+    border: 2px gray solid;
     height: 200px;
     margin: auto;
     position: center;
@@ -57,4 +60,15 @@
     position: absolute;
     left: 500px;
     bottom: 8px;
+}
+
+#box4{
+    width: 90vw;
+    box-shadow: 10px 10px;
+    height: 150px;
+    margin: 20px;
+    background: lightgoldenrodyellow;
+    position: absolute;
+    bottom: 5px;
+
 }
